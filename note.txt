@@ -1,0 +1,6 @@
+You must have install pip extension before run it!
+pip opencv-python
+pip mediapipe
+pip pycaw
+pip ctypes
+pip comtypes
